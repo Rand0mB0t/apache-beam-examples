@@ -7,7 +7,7 @@ It has PipelineOptions usage.
 ArgumentParser usage to be used in conjunction with PipelineOptions
 
 Usage:
-py sample_2.py \
+py sample_pipeline_2.py \
     --input_file_path "input_data/sample_2_input_file.csv" \
     --output_file_path "output_data/sample_2_output_file.csv" \
     --runner DirectRunner
